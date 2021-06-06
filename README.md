@@ -1,1 +1,5 @@
-# thesis_student_analytics
+# A Machine Learning Approach to Analyzing the Role of Academic Workload on Mental Well-Being in First-Year Undergraduate Engineering Students
+
+## Abstract 
+
+This study looked into the relationship between student Subjective Well-Being (SWB) and three self-reported academic workload measures, namely objective workload (i.e. the time spent outside of classroom to complete assigned work for a given course), transient objective workload (i.e. the extent of week-to-week variation in the total objective workload for all courses), and perceived workload difficulty (i.e. the extent of academic difficulty for a given course). Data was collected from a sample of first-year undergraduate engineering students at the University of Toronto (N = 851). At the aggregate level, all academic workload measures were found to be significantly higher in students reporting negative SWB compared to students reporting positive SWB. At the course level, findings from a machine learning binary classification model revealed that the objective workload of Engineering Strategies and Practice II course had the strongest negative influence towards the model’s SWB predictions. Areas for future research is discussed.
